@@ -1,9 +1,11 @@
 # 📝 Todo App
 
 A simple and clean Todo App built with **React Native** and **Expo** to help you stay organized and manage your daily tasks efficiently.
-
-![App Screenshot](<path/to/your/screenshot.png>)
-
+## App Screenshot :
+<p>
+    <img src="./Output/preview1.jpg" alt="App Screenshot" width="270" height="600">
+    <img src="./Output/preview2.jpg" alt="App Screenshot2" width="270" height="600">
+</p>
 
 ***
 
